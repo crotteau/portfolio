@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello!</h1>
       </header>
       <Canvas dpr={[1, 2]} camera={{ fov: 50 }}>
         <Scene />
